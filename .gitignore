@@ -162,4 +162,8 @@ cython_debug/
 #.idea/
 
 # Other
+#  preview and rendering
 media/
+
+#  configuration files
+*.cfg
